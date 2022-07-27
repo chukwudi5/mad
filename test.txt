@@ -1,0 +1,1 @@
+cy being enabled, we also need to promote the rules (individual basis, as per all behavior rules) to blocking. They are all still silent-only.
